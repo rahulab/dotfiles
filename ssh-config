@@ -1,4 +1,4 @@
-# CAEN connection for UMICH school work
+# CAEN UMICH environment connection
 Host caen
 	Hostname login.engin.umich.edu
 	User rahulab

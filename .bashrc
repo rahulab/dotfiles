@@ -1,7 +1,7 @@
 # aliases for common ls commands
 alias ll="ls -l"
 alias la="ls -a"
-# aliases for chmod
+# aliases for chmod commands
 alias chmx="chmod +x"
 alias chmr="chmod +r"
 alias chmw="chmod +w"

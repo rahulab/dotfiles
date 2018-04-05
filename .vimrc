@@ -4,5 +4,5 @@ set number
 set tabstop=3
 " keeps identation uniform with selected tabspace size
 set shiftwidth=3
-" turns off auto indentation for copy pasting to help with formatting
+" turns off auto indentation for pasting to help formatting
 set paste
