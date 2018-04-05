@@ -1,0 +1,5 @@
+# CAEN connection for UMICH school work
+Host caen
+	Hostname login.engin.umich.edu
+	User rahulab
+	Compression yes
